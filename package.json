@@ -1,8 +1,10 @@
 {
   "name": "signalk-hypermarket",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "SignalK HyperMarket Plugin",
   "main": "index.js",
+  "homepage": "https://github.com/AngeloBestetti/signalk-hypermarket#readme",
+  "url": "https://github.com/AngeloBestetti/signalk-hypermarket",
   "scripts": {},
   "keywords": [
     "signalk-node-server-plugin",
@@ -15,5 +17,9 @@
   "license": "ISC",
   "dependencies": {
     "nats": "^2.28.0"
+  },
+  "bugs": {
+    "url": "https://github.com/AngeloBestetti/signalk-hypermarket/issues",
+    "email": "angelobestetti@gmail.com"
   }
 }
