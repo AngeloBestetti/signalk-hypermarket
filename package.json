@@ -1,0 +1,19 @@
+{
+  "name": "signalk-hypermarket",
+  "version": "1.0.9",
+  "description": "SignalK HyperMarket Plugin",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "signalk-node-server-plugin",
+    "signalk-category-instruments"
+  ],
+  "signalk": {
+    "displayName": "SignalK HyperMarket Plugin"
+  },
+  "author": "Angelo Bestetti - HyperMarket.io",
+  "license": "ISC",
+  "dependencies": {
+    "nats": "^2.28.0"
+  }
+}
